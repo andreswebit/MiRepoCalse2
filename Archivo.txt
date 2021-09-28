@@ -1,0 +1,2 @@
+error tipico nuemro 1
+olvidar el -m "mensaje"
